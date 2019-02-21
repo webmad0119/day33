@@ -1,0 +1,12 @@
+section.todolist {
+    padding: 10px;
+}
+
+ol {
+    text-align: left;
+    width: 100vw;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
